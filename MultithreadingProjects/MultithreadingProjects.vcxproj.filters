@@ -21,9 +21,15 @@
     <ClCompile Include="SimpleMultithread.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="MutexAndConditional.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SimpleMultithread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MutexAndConditional.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
